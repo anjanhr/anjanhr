@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://www.freelancermap.com/blog/what-does-mern-stack-developer-do/)
+[![MasterHead](https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)](https://www.freelancermap.com/blog/what-does-mern-stack-developer-do/)
 <h1 align="center">Hi 👋, I'm Anjan H R</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Robo Tech Web Appliction**
 
-- 💬 Ask me about **C, JavaScript, React, Node, Express, MongoDB**
+- 💬 Ask me about **C, HTML5, CSS3, JavaScript, React, Node, Express, MongoDB**
 
 - 📫 How to reach me **anjanhr1997@gmail.com**
 
