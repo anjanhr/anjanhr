@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Robo Tech Web Appliction**
 
-- 💬 Ask me about **C, HTML5, CSS3, JavaScript, React, Node, Express, MongoDB**
+- 💬 Ask me about **C, JavaScript, React, Node, Express, MongoDB**
 
 - 📫 How to reach me **anjanhr1997@gmail.com**
 
