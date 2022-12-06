@@ -1,4 +1,4 @@
-[![MasterHead](https://essjaycopier.com/assets/img/essjay-products/software-development.jpg)](https://www.freelancermap.com/blog/what-does-mern-stack-developer-do/)
+[![MasterHead](http://jnsglobalinc.com/wp-content/uploads/2016/09/acq1-1920x700.jpg)](https://www.freelancermap.com/blog/what-does-mern-stack-developer-do/)
 <h1 align="center">Hi 👋, I'm Anjan H R</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
