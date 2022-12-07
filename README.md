@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anjanhr1" target="blank"><img src="https://img.shields.io/twitter/follow/anjanhr1?logo=twitter&style=for-the-badge" alt="anjanhr1" /></a> </p>
 
-- 🔭 I’m currently working on project called **Robo Tech Web Appliction**
+- 🔭 I’m currently working on project called **Robo Tech Web App**
 
 - 💬 Ask me about **C, JavaScript, React, Node, Express, MongoDB**
 
